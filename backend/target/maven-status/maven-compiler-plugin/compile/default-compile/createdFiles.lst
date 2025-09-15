@@ -1,0 +1,13 @@
+com\attendancesystem\backend\model\Attendance$AttendanceStatus.class
+com\attendancesystem\backend\security\EmployeeUserDetails.class
+com\attendancesystem\backend\service\EmployeeDetailsService.class
+com\attendancesystem\backend\service\LocationService$LocationInfo.class
+com\attendancesystem\backend\dto\LoginRequest.class
+com\attendancesystem\backend\security\JwtAuthenticationFilter.class
+com\attendancesystem\backend\model\Attendance.class
+com\attendancesystem\backend\repository\EmployeeRepository.class
+com\attendancesystem\backend\model\Employee.class
+com\attendancesystem\backend\repository\AttendanceRepository.class
+com\attendancesystem\backend\security\JwtUtil.class
+com\attendancesystem\backend\model\Employee$Role.class
+com\attendancesystem\backend\service\LocationService.class

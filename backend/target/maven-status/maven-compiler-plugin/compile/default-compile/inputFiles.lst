@@ -1,0 +1,16 @@
+C:\Users\pc\employee-attendance-system\backend\src\main\java\com\attendancesystem\backend\model\Employee.java
+C:\Users\pc\employee-attendance-system\backend\src\main\java\com\attendancesystem\backend\service\LocationService.java
+C:\Users\pc\employee-attendance-system\backend\src\main\java\com\attendancesystem\backend\config\SecurityConfig.java
+C:\Users\pc\employee-attendance-system\backend\src\main\java\com\attendancesystem\backend\repository\AttendanceRepository.java
+C:\Users\pc\employee-attendance-system\backend\src\main\java\com\attendancesystem\backend\service\FacialRecognitionService.java
+C:\Users\pc\employee-attendance-system\backend\src\main\java\com\attendancesystem\backend\dto\LoginRequest.java
+C:\Users\pc\employee-attendance-system\backend\src\main\java\com\attendancesystem\backend\model\Attendance.java
+C:\Users\pc\employee-attendance-system\backend\src\main\java\com\attendancesystem\backend\service\AttendanceService.java
+C:\Users\pc\employee-attendance-system\backend\src\main\java\com\attendancesystem\backend\security\JwtAuthenticationFilter.java
+C:\Users\pc\employee-attendance-system\backend\src\main\java\com\attendancesystem\backend\repository\EmployeeRepository.java
+C:\Users\pc\employee-attendance-system\backend\src\main\java\com\attendancesystem\backend\security\EmployeeUserDetails.java
+C:\Users\pc\employee-attendance-system\backend\src\main\java\com\attendancesystem\backend\service\EmployeeService.java
+C:\Users\pc\employee-attendance-system\backend\src\main\java\com\attendancesystem\backend\config\SQLiteDialect.java
+C:\Users\pc\employee-attendance-system\backend\src\main\java\com\attendancesystem\backend\security\JwtUtil.java
+C:\Users\pc\employee-attendance-system\backend\src\main\java\com\attendancesystem\backend\service\EmployeeDetailsService.java
+C:\Users\pc\employee-attendance-system\backend\src\main\java\com\attendancesystem\backend\EmployeeAttendanceApplication.java
